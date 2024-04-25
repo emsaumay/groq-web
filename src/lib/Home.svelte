@@ -173,4 +173,4 @@ const setPetalsEnabled = (event: Event) => {
     </article>
   {/if}
 </section>
-<Footer pin={true} />
+<!-- <Footer pin={true} /> -->
